@@ -1,4 +1,27 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+👋;+I'm+Lucas+Parreiras!;" />
+</h1>
+
+<h3 align="center">An engineer seeking to become a data scientist</h3>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **bike rental demand forecast project**
+ 
+ 🌱 I’m currently learning about **feature selection and hypothesis testing**
+
+ ⚡ Fun fact: have been a **sports bettor** for 4 years 
+
+ </div>
+
+<div align="center"> 
+  <a href="mailto:lucasparreirasds@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/lucasparreirasds" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 <!--
 **LucasParreirasDS/LucasParreirasDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
