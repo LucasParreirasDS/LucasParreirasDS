@@ -1,16 +1,16 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=1000&color=000000&random=false&width=435&lines=👋+Welcome!+I'm+Lucas+Parreiras!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=5000&color=000000&random=false&width=435&lines=👋+Welcome!+I'm+Lucas+Parreiras!;" />
 </h1>
 
 <h3 align="center">An engineer seeking to become a data scientist</h3>
 
 <div align="center">
  
- 🔭 I’m currently working on **bike rental demand forecast project**
+ 🔭 I’m currently working on a**bike rental demand forecast project**
  
- 🌱 I’m currently learning about **feature selection and hypothesis testing**
+ 🌱 I’m currently learning how to **level up** my professional profile
 
- ⚡ Fun fact: have been a **sports bettor** for 4 years 
+ ⚡ Fun fact: have been a **sports bettor** for almost 4 years 
 
  </div>
 
@@ -21,19 +21,35 @@
   <a href="https://linkedin.com/in/lucasparreirasds" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://medium.com/@lucasparreirasds" target="_blank">
+    <img src="https://img.shields.io/badge/MEDIUM-101820?style=for-the-badge&logo=medium" target="_blank" />
+  </a>
 </div>
 
-<!--
-**LucasParreirasDS/LucasParreirasDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+ 
+ ### :hammer_and_wrench: Languages and Tools :
+ 
+<div>
+    
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="140" height="100"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="140" height="100"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sql" alt="sql" width="140" height="100"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="140" height="100"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original.svg" title="stackoverflow" alt="stackoverflow" width="140" height="100"/>&nbsp;
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**MAIN LIBRARIES**
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="90" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="90" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplot" alt="plt" width="90" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="90" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="90" height="60"/>&nbsp;
+
+
+ </div>
+
+
