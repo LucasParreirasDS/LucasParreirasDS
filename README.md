@@ -6,7 +6,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a**bike rental demand forecast project**
+ 🔭 I’m currently working on a **bike rental demand forecast project**
  
  🌱 I’m currently learning how to **level up** my professional profile
 
