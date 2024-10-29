@@ -6,11 +6,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **bike rental demand forecast project**
+ 🔭 I’m currently working as a **data scientist** on a **health financing startup**
  
  🌱 I’m currently learning how to **level up** my professional profile
 
- ⚡ Fun fact: have been a **sports bettor** for almost 4 years 
+ ⚡ Fun fact: have been a **profitable sports bettor** for almost 4 years 
 
  </div>
 
