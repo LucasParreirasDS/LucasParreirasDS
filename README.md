@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=5000&color=000000&random=false&width=435&lines=👋+Welcome!+I'm+Lucas+Parreiras!;" />
 </h1>
 
-<h3 align="center">An engineer seeking to become a data scientist</h3>
+<h3 align="center">An engineer who became a data scientist recently</h3>
 
 <div align="center">
  
